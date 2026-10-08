@@ -1,0 +1,6 @@
+{
+  "name": "Secure File Vault",
+  "description": "Enterprise-grade secure file storage and access management system with AES-256-GCM encryption at rest, role-based access control, and comprehensive security audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
